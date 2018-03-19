@@ -2,10 +2,10 @@ package com.instanect.aksfileutility.generic.encoder;
 
 import android.util.Base64;
 
-import com.instanect.fileutility.generic.exception.InstaFileNotFoundFoundException;
-import com.instanect.fileutility.generic.exception.InstaNoSuchImageExtensionException;
-import com.instanect.fileutility.generic.getter.AppBase64PrefixGetter;
-import com.instanect.fileutility.generic.util.AppFileByteReader;
+import com.instanect.aksfileutility.generic.exception.InstaFileNotFoundFoundException;
+import com.instanect.aksfileutility.generic.exception.InstaNoSuchImageExtensionException;
+import com.instanect.aksfileutility.generic.getter.AppBase64PrefixGetter;
+import com.instanect.aksfileutility.generic.util.AppFileByteReader;
 
 import java.io.FileNotFoundException;
 

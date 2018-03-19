@@ -1,6 +1,6 @@
 package com.instanect.aksfileutility.generic.getter;
 
-import com.instanect.fileutility.generic.exception.InstaNoSuchImageExtensionException;
+import com.instanect.aksfileutility.generic.exception.InstaNoSuchImageExtensionException;
 
 /**
  * Provides data prefix for images to be transmitted to server

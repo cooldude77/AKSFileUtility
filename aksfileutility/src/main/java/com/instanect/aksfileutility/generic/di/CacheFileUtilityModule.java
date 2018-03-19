@@ -2,7 +2,7 @@ package com.instanect.aksfileutility.generic.di;
 
 import android.content.Context;
 
-import com.instanect.fileutility.generic.util.CacheFileUtility;
+import com.instanect.aksfileutility.generic.util.CacheFileUtility;
 
 import dagger.Module;
 import dagger.Provides;

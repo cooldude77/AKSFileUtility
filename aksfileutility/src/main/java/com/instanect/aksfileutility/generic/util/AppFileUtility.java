@@ -1,11 +1,11 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.LogTagGenerator;
-import com.instanect.fileutility.generic.exception.InstUnableToCreateFileException;
-import com.instanect.fileutility.generic.exception.InstaAttemptingFileDeletionWhenOverwriteFlagIsNotSetException;
-import com.instanect.fileutility.generic.exception.InstaFileNotFoundFoundException;
-import com.instanect.fileutility.generic.exception.InstaUnableToDeleteFileException;
-import com.instanect.fileutility.generic.providers.AppFileInstanceProvider;
+import com.instanect.aksfileutility.LogTagGenerator;
+import com.instanect.aksfileutility.generic.exception.InstUnableToCreateFileException;
+import com.instanect.aksfileutility.generic.exception.InstaAttemptingFileDeletionWhenOverwriteFlagIsNotSetException;
+import com.instanect.aksfileutility.generic.exception.InstaFileNotFoundFoundException;
+import com.instanect.aksfileutility.generic.exception.InstaUnableToDeleteFileException;
+import com.instanect.aksfileutility.generic.providers.AppFileInstanceProvider;
 
 import java.io.File;
 import java.io.IOException;

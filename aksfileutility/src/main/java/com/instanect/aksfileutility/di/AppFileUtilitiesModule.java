@@ -2,20 +2,20 @@ package com.instanect.aksfileutility.di;
 
 import android.content.Context;
 
-import com.instanect.fileutility.generic.converter.AppStringToByteImageConverter;
-import com.instanect.fileutility.generic.encoder.AppImageFileToBase64Encoder;
-import com.instanect.fileutility.generic.getter.AppBase64PrefixGetter;
-import com.instanect.fileutility.generic.getter.AppImageExtensionGetter;
-import com.instanect.fileutility.generic.providers.AppFileInstanceProvider;
-import com.instanect.fileutility.generic.providers.FileInputStreamProvider;
-import com.instanect.fileutility.generic.providers.FileOutputStreamProvider;
-import com.instanect.fileutility.generic.util.AppBase64ImageDataFromMimeTypeTruncator;
-import com.instanect.fileutility.generic.util.AppDirectoryUtility;
-import com.instanect.fileutility.generic.util.AppFileByteReader;
-import com.instanect.fileutility.generic.util.AppFileStreamWriter;
-import com.instanect.fileutility.generic.util.AppFileUtility;
-import com.instanect.fileutility.generic.util.AppMimeTypeToImageExtensionConverter;
-import com.instanect.fileutility.generic.util.CacheFileUtility;
+import com.instanect.aksfileutility.generic.converter.AppStringToByteImageConverter;
+import com.instanect.aksfileutility.generic.encoder.AppImageFileToBase64Encoder;
+import com.instanect.aksfileutility.generic.getter.AppBase64PrefixGetter;
+import com.instanect.aksfileutility.generic.getter.AppImageExtensionGetter;
+import com.instanect.aksfileutility.generic.providers.AppFileInstanceProvider;
+import com.instanect.aksfileutility.generic.providers.FileInputStreamProvider;
+import com.instanect.aksfileutility.generic.providers.FileOutputStreamProvider;
+import com.instanect.aksfileutility.generic.util.AppBase64ImageDataFromMimeTypeTruncator;
+import com.instanect.aksfileutility.generic.util.AppDirectoryUtility;
+import com.instanect.aksfileutility.generic.util.AppFileByteReader;
+import com.instanect.aksfileutility.generic.util.AppFileStreamWriter;
+import com.instanect.aksfileutility.generic.util.AppFileUtility;
+import com.instanect.aksfileutility.generic.util.AppMimeTypeToImageExtensionConverter;
+import com.instanect.aksfileutility.generic.util.CacheFileUtility;
 
 import dagger.Module;
 import dagger.Provides;

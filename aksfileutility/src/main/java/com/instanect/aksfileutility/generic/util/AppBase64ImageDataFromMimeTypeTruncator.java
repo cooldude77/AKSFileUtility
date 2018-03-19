@@ -1,6 +1,6 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.generic.encoder.InstaNullValueProvided;
+import com.instanect.aksfileutility.generic.encoder.InstaNullValueProvided;
 
 /**
  * AppMimeTypeToImageExtensionConverter

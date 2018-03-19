@@ -1,7 +1,7 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.generic.providers.FileInputStreamProvider;
-import com.instanect.fileutility.generic.providers.FileOutputStreamProvider;
+import com.instanect.aksfileutility.generic.providers.FileInputStreamProvider;
+import com.instanect.aksfileutility.generic.providers.FileOutputStreamProvider;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

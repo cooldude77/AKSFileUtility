@@ -1,6 +1,6 @@
 package com.instanect.aksfileutility.generic.getter;
 
-import com.instanect.fileutility.generic.exception.InstaUnidentifiedImageFileExtensionException;
+import com.instanect.aksfileutility.generic.exception.InstaUnidentifiedImageFileExtensionException;
 
 /**
  * Created by AKS on 2/9/2018.

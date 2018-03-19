@@ -1,11 +1,11 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.generic.exception.InstaDirectoryCouldNotBeCreatedException;
-import com.instanect.fileutility.generic.exception.InstaDirectoryCouldNotBeDeletedException;
-import com.instanect.fileutility.generic.exception.InstaDirectoryIsAFileCannotBeDeletedHereException;
-import com.instanect.fileutility.generic.exception.InstaDirectoryIsActuallyAFileException;
-import com.instanect.fileutility.generic.exception.InstaNoSuchDirectoryExistsException;
-import com.instanect.fileutility.generic.providers.AppFileInstanceProvider;
+import com.instanect.aksfileutility.generic.exception.InstaDirectoryCouldNotBeCreatedException;
+import com.instanect.aksfileutility.generic.exception.InstaDirectoryCouldNotBeDeletedException;
+import com.instanect.aksfileutility.generic.exception.InstaDirectoryIsAFileCannotBeDeletedHereException;
+import com.instanect.aksfileutility.generic.exception.InstaDirectoryIsActuallyAFileException;
+import com.instanect.aksfileutility.generic.exception.InstaNoSuchDirectoryExistsException;
+import com.instanect.aksfileutility.generic.providers.AppFileInstanceProvider;
 
 import java.io.File;
 

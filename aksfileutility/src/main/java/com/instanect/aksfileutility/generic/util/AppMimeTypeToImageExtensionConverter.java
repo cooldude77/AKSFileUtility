@@ -1,6 +1,6 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.generic.exception.InstaMimeTypeNotRecognizedException;
+import com.instanect.aksfileutility.generic.exception.InstaMimeTypeNotRecognizedException;
 
 /**
  AppMimeTypeToImageExtensionConverter

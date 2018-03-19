@@ -3,7 +3,7 @@ package com.instanect.aksfileutility.generic.util;
 import android.content.Context;
 import android.net.Uri;
 
-import com.instanect.fileutility.LogTagGenerator;
+import com.instanect.aksfileutility.LogTagGenerator;
 
 import java.io.File;
 import java.net.URI;

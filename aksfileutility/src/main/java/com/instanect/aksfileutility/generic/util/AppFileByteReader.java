@@ -1,6 +1,6 @@
 package com.instanect.aksfileutility.generic.util;
 
-import com.instanect.fileutility.generic.exception.InstaFileNotFoundFoundException;
+import com.instanect.aksfileutility.generic.exception.InstaFileNotFoundFoundException;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
