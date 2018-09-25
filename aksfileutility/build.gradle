@@ -7,7 +7,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
-        versionName "0.0.1"
+        versionName "0.0.3"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -26,15 +26,15 @@ ext {
     bintrayName = 'file-util'
 
     publishedGroupId = 'com.instanect.aksfileutility'
-    libraryName = 'aksrestvolley'
-    artifact = 'aksrestvolley'
+    libraryName = 'aksfileutility'
+    artifact = 'aksfileutility'
 
     libraryDescription = 'A collection of base classes for MVPtra'
 
     siteUrl = 'https://github.com/cooldude77/AKSFileUtility'
     gitUrl = 'https://github.com/cooldude77/AKSFileUtility.git'
 
-    libraryVersion = '0.0.1'
+    libraryVersion = '0.0.3'
 
     developerId = 'cooldude77'
     developerName = 'Ashvini'
